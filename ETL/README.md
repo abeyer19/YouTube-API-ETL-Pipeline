@@ -76,7 +76,7 @@ Phase one of the project is meant to be an introduction to data engineering for 
         - .gitignore -> used to tell GitHub which files to ignore when committing to the repo.
         - config.env -> used to store all the sensative information regarding the project such as; API key, database username and password, etc.
         - patch_notes.txt -> used to document everything I did over the project incase I forget.
-        - read_me.md -> the file you are currently looking at (insert circular reference error joke here), basic read me file for project structure.
+        - read_me.md -> the file you are currently looking at, basic read me file for project structure.
 
 ### DAGs & ERDs:
 1. DAG - YouTube ETL
