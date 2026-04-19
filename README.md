@@ -1,5 +1,5 @@
 # Introduction
-This project is meant to teach myself the ETL/ELT process through building out API connections, database creation and management, and dashboarding capabalities to provide realtime data insights.
+This project was meant to teach myself about data engineering, specifically the ETL/ELT process through building out API connections, database creation and management, and connecting the database to dashboards to provide realtime data insights.
 I am using the YouTube API web scrapers through [Google](https://developers.google.com/youtube/v3) to gather information about one of my favorite learning and entertainment tools.
 I hope to finally learn the basics of data engineering while also showing people that I am capable of creating a database, extract data using APIs, transform and load data into said database, maintain and optimize the database, create realtime dashboards, and provide meaningful insights gracefully.
 
